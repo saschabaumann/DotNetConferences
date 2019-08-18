@@ -8,8 +8,13 @@ https://www.dotnetconf.net/
 September 23 — 25, 2019
 
 ## In-Person Events
-### Large Conferences US
-### Local Events US
+### Microsoft Conferences US
+### Independent Events US
 
-### Large Conferences Germany
-### Local Events Germany
+techbash
+https://www.techbash.com/
+November 12-15, 2019  
+Kalahari Resorts, Pocono Manor, Pennsylvania
+
+### Microsoft Conferences Germany
+### Independent Events Germany
