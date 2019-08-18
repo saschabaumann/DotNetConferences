@@ -11,8 +11,8 @@ September 23 — 25, 2019
 ### Microsoft Conferences US
 ### Independent Events US
 
-techbash
-https://www.techbash.com/
+techbash  
+https://www.techbash.com/  
 November 12-15, 2019  
 Kalahari Resorts, Pocono Manor, Pennsylvania
 
