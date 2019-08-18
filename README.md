@@ -3,8 +3,8 @@ List of .NET related events and conferences.
 
 ## Digital Events
 
-.NET Conf 
-https://www.dotnetconf.net/
+.NET Conf  
+https://www.dotnetconf.net/  
 September 23 — 25, 2019
 
 ## In-Person Events
